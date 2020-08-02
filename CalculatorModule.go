@@ -1,4 +1,4 @@
-package Modules
+package MyCalculator
 
 import (
 	"bufio"
