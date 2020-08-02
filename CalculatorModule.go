@@ -1,4 +1,4 @@
-package MyCalculator
+package CalculatorModule
 
 import (
 	"bufio"
